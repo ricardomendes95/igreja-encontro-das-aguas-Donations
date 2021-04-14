@@ -1,14 +1,11 @@
 import React from 'react'
-
-import * as S from '../styles/pages/Home'
-
-import Routes from '../routes'
+import Dizimos from './Dizimos'
 
 const Home: React.FC = () => {
   return (
-    <S.Container>
-      <Routes />
-    </S.Container>
+    <>
+      <Dizimos />
+    </>
   )
 }
 
