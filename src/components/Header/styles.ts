@@ -4,7 +4,7 @@ export const Container = styled.div`
   display: flex;
   /* align-items: center;
   flex-direction: column; */
-  /* position: relative; */
+  position: relative;
   width: 100vw;
 `
 export const Menu = styled.div`

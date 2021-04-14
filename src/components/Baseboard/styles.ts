@@ -9,9 +9,9 @@ export const Container = styled.div`
   background: rgba(28, 75, 92, 1);
   justify-content: space-between;
   padding: 10px;
-  position: absolute;
+  position: relative;
   bottom: 0;
-  width: 100%;
+  /* width: 100%; */
 `
 
 export const Address = styled.div`
